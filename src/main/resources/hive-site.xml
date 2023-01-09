@@ -1,8 +1,0 @@
-  <configuration>
-    
-    <property>
-      <name>hive.metastore.uris</name>
-      <value>thrift://d02dc-hive001.main.russianpost.ru:9083,thrift://d02dc-hive003.main.russianpost.ru:9083</value>
-    </property>
-    
-  </configuration>

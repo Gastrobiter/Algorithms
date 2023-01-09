@@ -1,0 +1,1 @@
+This repository contains methods, described in the Thomas's Cormen book Algorithms which are written in pseudocode 
